@@ -19,8 +19,8 @@ class JqueryAssetBundle extends EffAssetBundle{
 
     public $publishOptions = [
         'only' => [
-            'js/jquery.js',
-            'js/jquery.min.js',
+            'jquery.js',
+            'jquery.min.js',
         ],
     ];
 
